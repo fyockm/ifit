@@ -1,2 +1,2 @@
-# ifit
-ifit coding challenge
+# iFit
+iFit coding challenge
